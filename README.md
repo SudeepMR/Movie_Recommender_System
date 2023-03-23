@@ -44,7 +44,7 @@ Ratings.csv
 + rating: rating by a user to a movie
 + Timestamp: time at which the rating was provided.
 
-# Tasks to be performed:
+# Steps and Tasks to be performed:
 + Import libraries and load dataset
 + Exploratory Data Analysis including:
    + Understanding of distribution of the features available

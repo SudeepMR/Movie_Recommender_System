@@ -47,9 +47,9 @@ Ratings.csv
 # Tasks to be performed:
 + Import libraries and load dataset
 + Exploratory Data Analysis including:
-+ Understanding of distribution of the features available
-+ Finding unique users and movies
-+ Average rating and Total movies at genre level.
-+ Unique genres considered.
+   + Understanding of distribution of the features available
+   + Finding unique users and movies
+   + Average rating and Total movies at genre level.
+   + Unique genres considered.
 + Design the 3 different types of recommendation modules as mentioned in the objectives.
 + Additional/Optional: Create a GUI interface using Python libraries (ipywidgets etc.) to play around with the recommendation modules.

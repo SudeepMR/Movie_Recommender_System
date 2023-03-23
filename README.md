@@ -9,26 +9,26 @@ But choosing your next movie to watch can still be a daunting task, even if you 
 ## Objective:
 1. Create a popularity-based recommender system at a genre level. The user will input a genre (g), minimum rating threshold (t) for a movie, and no. of recommendations(N) for which it should be recommended top N movies which are most popular within that genre (g) ordered by ratings in descending order where each movie has at least (t) reviews.
 
-#### Example:
-Input: 
-+ Genre (g) : Comedy
-+ Minimum reviews threshold (t): 100
-+ Num recommendations (N) : 5
+     #### Example:
+     Input: 
+     + Genre (g) : Comedy
+     + Minimum reviews threshold (t): 100
+     + Num recommendations (N) : 5
 
 2. Create a content-based recommender system that recommends top N movies based on similar movie(m) genres.
 
-#### Example:
-Input:
-+ Movie Title (t): Toy Story
-+ Num recommendations (N): 5
+     #### Example:
+     Input:
+     + Movie Title (t): Toy Story
+     + Num recommendations (N): 5
 
 3. Create a collaborative based recommender system which recommends top N movies based on “K” similar users for a target user “u”
 
-#### Example:
-Input:
-+ UserID: 1 
-+ Num recommendations(N): 5
-+ Threshold for similar users (k: 100
+     #### Example:
+     Input:
+     + UserID: 1 
+     + Num recommendations(N): 5
+     + Threshold for similar users (k: 100
 
 ## About the Data:
 There are two data files which are provided:
